@@ -14,7 +14,7 @@ Contact with me through LinkedIn 😁
 ### 🧑 About me 
 
 I'm a student from Spain 🥘
-- :technologist: Learning about **Multiplatform Software Development**. 
+- 💻 Learning about **Multiplatform Software Development**. 
 - 📱 Obsessed with mobile app development. 
 - 🏗️ In my free time I like making personal projects. 
 
