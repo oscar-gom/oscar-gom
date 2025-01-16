@@ -19,8 +19,11 @@ I'm a student from Spain 🥘
 - 🏗️ In my free time I like making personal projects. 
 
 ---
+
 ### I made this:
-UltraSavings: https://oscargo.gumroad.com/l/ultrasavings
+
+- 💸 UltraSavings: https://oscargo.gumroad.com/l/ultrasavings
+
 ---
 
 ### Languages and Tools
