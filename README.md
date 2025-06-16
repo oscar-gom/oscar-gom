@@ -15,8 +15,8 @@ Contact with me through LinkedIn 😁
 
 I'm a student from Spain 🥘
 - 💻 Learning about **Multiplatform Software Development**. 
-- 📱 Obsessed with mobile app development. 
-- 🏗️ In my free time I like making personal projects. 
+- 📱 Obsessed with mobile app development.
+- Working as an Intern at the moment.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a student from Spain 🥘
 - Java ☕
 - Kotlin 📱
 - Swift 📱
-- HTML & CSS 🛜
+- Flutter 📱
 - Python 🐍
 
 ---
