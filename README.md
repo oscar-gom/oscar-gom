@@ -13,16 +13,12 @@ Contact with me through LinkedIn 😁
 
 ### 🧑 About me 
 
-I'm a student from Spain 🥘
-- 💻 Learning about **Multiplatform Software Development**. 
-- 📱 Obsessed with mobile app development.
-- 🧑‍💻 Working as an Intern at the moment.
+I'm a mobile developer from Spain currently working on a journaling app (hobby project). I’m looking for a job. If you want to talk to me, hit me up on LinkedIn 😄
 
----
-
-### I also made this:
-
-- 💸 UltraSavings: https://oscargo.gumroad.com/l/ultrasavings
+#### Journaling App progress
+- [x] Backend
+- [ ] Native **Android** App
+- [ ] Native **iOS** App
 
 ---
 
