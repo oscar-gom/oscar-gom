@@ -15,11 +15,6 @@ Contact with me through LinkedIn 😁
 
 I'm a mobile developer from Spain currently working on a journaling app (hobby project). I’m looking for a job. If you want to talk to me, hit me up on LinkedIn 😄
 
-#### Journaling App progress
-- [x] [Backend](https://github.com/oscar-gom/backend-journaling)
-- [ ] Native **Android** App
-- [ ] Native **iOS** App
-
 ---
 
 ### Languages and Tools
@@ -28,7 +23,7 @@ I'm a mobile developer from Spain currently working on a journaling app (hobby p
 - Kotlin 📱
 - Swift 📱
 - Flutter 📱
-- Python 🐍
+- PHP (Laravel)
 
 ---
 
