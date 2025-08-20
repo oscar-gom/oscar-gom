@@ -23,7 +23,7 @@ I'm a mobile developer from Spain currently working on a journaling app (hobby p
 - Kotlin 📱
 - Swift 📱
 - Flutter 📱
-- PHP (Laravel)
+- PHP (Laravel) 🐘
 
 ---
 
