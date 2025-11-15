@@ -13,7 +13,7 @@ Contact with me through LinkedIn 😁
 
 ### 🧑 About me 
 
-I'm a mobile developer from Spain currently working on a journaling app (hobby project). I’m looking for a job. If you want to talk to me, hit me up on LinkedIn 😄
+I'm a mobile developer from Spain. I’m looking for a job. If you want to talk to me, hit me up on LinkedIn 😄
 
 ---
 
