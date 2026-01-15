@@ -13,17 +13,23 @@ Contact with me through LinkedIn 😁
 
 ### 🧑 About me 
 
-I'm a mobile developer from Spain. I’m looking for a job. If you want to talk to me, hit me up on LinkedIn 😄
+I'm an app and backend developer from Spain. I've made some cool projects, check them out:
+
+- Wordle Clone (Full-Stack):
+  - [Frontend](https://github.com/oscar-gom/wordle-clone-android)
+  - [Backend](https://github.com/oscar-gom/wordle-clone-backend)
+- Restaurant system (Full-Stack):
+  - [Frontend](https://github.com/oscar-gom/restaurant-app-android)
+  - [Backend](https://github.com/oscar-gom/restaurant-app-backend)
 
 ---
 
 ### Languages and Tools
 
-- Java ☕
+- Java 🌐
 - Kotlin 📱
 - Swift 📱
-- Flutter 📱
-- PHP (Laravel) 🐘
+- PHP 🌐
 
 ---
 
